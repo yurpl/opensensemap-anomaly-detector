@@ -1,0 +1,7 @@
+install.packages("lubridate")
+install.packages("dplyr")
+install.packages("units")
+install.packages("sf")
+install.packages("opensensmapr")
+install.packages("ggplot2")
+install.packages("lindia")
