@@ -1,6 +1,0 @@
-install.packages("lubridate")
-install.packages("tidyverse")
-install.packages("units")
-install.packages("sf")
-install.packages("lindia")
-install.packages('devtools')
