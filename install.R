@@ -1,5 +1,8 @@
 install.packages("lubridate")
 install.packages("dplyr")
+install.packages("rgdal")
+install.packages("rgeos")
+install.package("udunits2")
 install.packages("units")
 install.packages("sf")
 install.packages("sp")
